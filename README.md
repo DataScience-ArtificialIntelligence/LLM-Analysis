@@ -37,7 +37,7 @@ In addition to the aforementioned models, our project may explore other state-of
 - [Anubhav Gupta](https://github.com/anubhav-0910)
 - [Kashish Lonpande](https://github.com/Kashishca)
 - [Chintan Chawda](https://github.com/imperialrogers)
-- [Rohit Singh](https://github.com/Rohit-gits0)
+- [Rohit Chaudhari](https://github.com/Rohit-gits0)
 
 ## Acknowledgments
 
