@@ -141,29 +141,32 @@ print(f"METEOR Score: {metrics['meteor']}")
 ## 🏗️ Project Structure
 ```
 .
+.
 ├── bhagavad_gita/
 │   ├── english_to_hindi/
 │   │   ├── mbart.py
 │   │   ├── m2m.py
 │   │   ├── nllb.py
-│   │   └── google_translate.py
+│   │   ├── google_translate.py
 │   └── hindi_to_english/
 │       ├── mbart.py
 │       ├── m2m.py
 │       ├── nllb.py
-│       └── google_translate.py
+│       ├── google_translate.py
+│   └── indictrans2.py         # Added IndicTrans2 handling both directions
 └── iitb_corpus/
     ├── english_to_hindi/
     │   ├── mbart.py
     │   ├── m2m.py
     │   ├── nllb.py
-    │   └── google_translate.py
+    │   ├── google_translate.py
     └── hindi_to_english/
         ├── mbart.py
         ├── m2m.py
         ├── nllb.py
-        └── google_translate.py
-```
+        ├── google_translate.py
+    └── indictrans2.py         # Added IndicTrans2 handling both directions
+
 
 ## 📝 Key Conclusions
 
