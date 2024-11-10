@@ -166,7 +166,7 @@ print(f"METEOR Score: {metrics['meteor']}")
     |   ├── nllb.py
     |   ├── google_translate.py
     └── IndicTrans2IITB.py         
-
+```
 
 ## 📝 Key Conclusions
 
