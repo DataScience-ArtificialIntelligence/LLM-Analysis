@@ -153,7 +153,7 @@ print(f"METEOR Score: {metrics['meteor']}")
 │   |   ├── m2m.py
 │   |   ├── nllb.py
 │   |   ├── google_translate.py
-│   └── indictrans2.py        
+│   └── IndicTrans2BG.py        
 └── iitb_corpus/
     ├── english_to_hindi/
     │   ├── mbart.py
@@ -165,7 +165,7 @@ print(f"METEOR Score: {metrics['meteor']}")
     |   ├── m2m.py
     |   ├── nllb.py
     |   ├── google_translate.py
-    └── indictrans2.py         
+    └── IndicTrans2IITB.py         
 
 
 ## 📝 Key Conclusions
