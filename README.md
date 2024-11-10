@@ -149,11 +149,11 @@ print(f"METEOR Score: {metrics['meteor']}")
 │   │   ├── nllb.py
 │   │   ├── google_translate.py
 │   └── hindi_to_english/
-│       ├── mbart.py
-│       ├── m2m.py
-│       ├── nllb.py
-│       ├── google_translate.py
-│   └── indictrans2.py         # Added IndicTrans2 handling both directions
+│   |   ├── mbart.py
+│   |   ├── m2m.py
+│   |   ├── nllb.py
+│   |   ├── google_translate.py
+│   └── indictrans2.py        
 └── iitb_corpus/
     ├── english_to_hindi/
     │   ├── mbart.py
@@ -161,11 +161,11 @@ print(f"METEOR Score: {metrics['meteor']}")
     │   ├── nllb.py
     │   ├── google_translate.py
     └── hindi_to_english/
-        ├── mbart.py
-        ├── m2m.py
-        ├── nllb.py
-        ├── google_translate.py
-    └── indictrans2.py         # Added IndicTrans2 handling both directions
+    |   ├── mbart.py
+    |   ├── m2m.py
+    |   ├── nllb.py
+    |   ├── google_translate.py
+    └── indictrans2.py         
 
 
 ## 📝 Key Conclusions
